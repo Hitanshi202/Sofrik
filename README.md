@@ -59,7 +59,7 @@ asn/
 
 ### 1. Clone the repository
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Hitanshi202/Sofrik.git
 cd asn
 ```
 
